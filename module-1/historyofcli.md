@@ -42,19 +42,19 @@ Additionally, CLIs are widely used for container orchestration and deployment in
 
 ## References
 
-- [ASR 33 Teletype. University of York](https://www.cs.york.ac.uk/50-years/exhibition/asr-33-teletype/#:~:text=The%20Model%2033%20was%20one,minicomputer%20operating%20systems%2C%20including%20UNIX). Accessed 27 Sept. 2024.
+- [ASR 33 Teletype. University of York](https://www.cs.york.ac.uk/50-years/exhibition/asr-33-teletype/#:~:text=The%20Model%2033%20was%20one,minicomputer%20operating%20systems%2C%20including%20UNIX). Accessed 25 Sept. 2024.
 
 - [The Evolution of Command Line Interface (CLI): A Historical Insight. The Contentstack Team, 14 Aug. 2024](https://www.contentstack.com/blog/tech-talk/the-evolution-of-command-line-interface-cli-a-historical-insight). Accessed 27 Sept. 2024.
 
-- [The Invention of Unix. Bell Labs, 8 Jan. 2019](https://www.bell-labs.com/institute/blog/invention-unix/#gref). Accessed 27 Sept. 2024.
+- [The Invention of Unix. Bell Labs, 8 Jan. 2019](https://www.bell-labs.com/institute/blog/invention-unix/#gref). Accessed 26 Sept. 2024.
 
-- [MS-DOS. Computer Hope](https://www.computerhope.com/jargon/m/msdos.htm). Accessed 27 Sept. 2024.
+- [MS-DOS. Computer Hope](https://www.computerhope.com/jargon/m/msdos.htm). Accessed 26 Sept. 2024.
 
 - [Prasad, Aanand, et al. "Command Line Interface Guidelines." CLIG.dev](https://www.clig.dev/#:~:text=A%20lot%20has%20changed%20about,%2Dlike%20multi%2Dtool%20commands). Accessed 27 Sept. 2024.
 
 - [Rouse, Margaret. "Control Program for Microcomputers." Techopedia, 23 Dec. 2016](https://www.techopedia.com/definition/3343/control-program-for-microcomputers-cpm). Accessed 27 Sept. 2024.
 
-- [Shustek, Leonard J. "Microsoft MS-DOS Early Source Code." Computer History Museum, 25 Mar. 2014](https://computerhistory.org/blog/microsoft-ms-dos-early-source-code/?key=microsoft-ms-dos-early-source-code). Accessed 27 Sept. 2024.
+- [Shustek, Leonard J. "Microsoft MS-DOS Early Source Code." Computer History Museum, 25 Mar. 2014](https://computerhistory.org/blog/microsoft-ms-dos-early-source-code/?key=microsoft-ms-dos-early-source-code). Accessed 25 Sept. 2024.
 
 - [Sirk, Christopher. "Xerox PARC and the Origins of GUI." CRM.org, 23 Jan. 2024](https://www.crm.org/articles/xerox-parc-and-the-origins-of-gui). Accessed 27 Sept. 2024.
 
