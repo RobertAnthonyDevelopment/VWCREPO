@@ -1,6 +1,6 @@
-Research the History of the Command Line Interface (CLI)
+# Research the History of the Command Line Interface (CLI)
 
-Trace Back to the Initial Concept of the CLI: Identify the First Systems that Used Command-Line Interfaces:
+## Trace Back to the Initial Concept of the CLI: Identify the First Systems that Used Command-Line Interfaces:
 
 Unix, MS-DOS, and the Control Program for Microcomputers (CP/M) were some of the first systems to use the CLI (MS-DOS; Control Program for Microcomputers). However, the ASR-33 Teletype was one of the first terminals that allowed its users to interact with early computer systems by utilizing text-based commands (ASR 33 Teletype). The ASR-33, first introduced in the 1960s, was essential in developing the modern CLI as we know it today due to its use of ASCII code, which was vital in establishing a standard for text-based communication, which is essential for CLIs. It should be noted that the ASR 33 was one of many teletypes available to use with computer systems developed in the late 1960s and early 1970s. It served as a terminal to interact with computer systems such as UNIX and was not a computer system.
 
@@ -10,7 +10,7 @@ The Control Program for Microcomputers (CP/M), which Gary Kindell developed, was
 
 MS-DOS, created by Microsoft in 1981, was another popular system to utilize a CLI-based operating system. Designed for IBM computers, MS-DOS allowed users to interact with the computer system by typing text-based commands such as "cd" and "dir" (Shustek). Although GUIs such as Windows would later simplify these tasks, MS-DOS was very popular and used throughout the 1980s and early 1990s. The CLI from MS-DOS is still employed by programmers and power users today as the Windows command prompt to perform various system management tasks (MS-DOS).
 
-Identify Key Milestones:
+## Identify Key Milestones:
 
 Some of the key milestones in the evolution of CLI are the invention of the C Shell (csh), Bourne Shell (sh), Korn (ksh), and Bash (Bourne Again Shell). The C Shell was developed by Bill Joy and released as part of the Berkely Software Distribution Unix in 1978. It was a version of UNIX developed by Berkeley that was initially based on AT&T's version of Unix The Invention of Unix).
 
@@ -18,19 +18,19 @@ The Bourne Shell (sh) and Bash (Bourne Again Shell), the later and improved vers
 
 The Korn Shell (ksh) was an extension of the Bourne Shell, developed by David Korn at Bell Labs in 1983. This Shell offered revolutionary features such as command history (the ability to bring up different commands the user previously entered) and job control (job tracking). Due to its ease of use and scripting abilities, the Korn Shell became popular in Unix's commercial systems (The Invention of Unix).
 
-Note Important Figures:
+## Note Important Figures:
 
 As previously outlined in this report, several pioneers and organizations contributed to developing the command-line interface (CLI). Dennis Ritchie and Ken Thompson, working at Bell Labs in the early 1970s, were critical to the development of Unix, one of the first systems to utilize CLI (The Invention of Unix). Another important figure, Gary Kindell, developed the Control Program for Microcomputers (CP/M), which was crucial in influencing later systems like MS-DOS. Stephen Bourne made significant contributions by creating the Bourne Shell (sh) in 1979 and later the Bourne Again Shell (Bash) in 1989, which became foundational for Unix and Linux systems. Bill Joy created the C Shell (csh) in 1978 as part of the Berkeley Software Distribution (BSD) Unix, further advancing CLI (The Invention of Unix). David Korn introduced the Korn Shell (ksh) in 1983, which brought innovations like command history and job control, enhancing user experience and scripting capabilities. 
 
 Key organizations also played a pivotal role in shaping the CLI. Bell Labs, where Unix was developed, was instrumental in the early stages of CLI development. Microsoft popularized CLI-based systems with the introduction of MS-DOS in 1981. The Berkeley Software Distribution (BSD), through Bill Joy's creation of the C Shell, contributed significantly to the evolution of Unix-based CLIs. Finally, the GNU Project's development of the Bash shell in 1989, which became the default for Linux systems, was another significant milestone in the CLI's evolution (Prasad et al.). These pioneers and organizations collectively laid the foundation for modern CLI systems, which remain widely used today.
 
-Highlight Major Shifts:
+## Highlight Major Shifts:
 
 The transition from Command-Line Interfaces (CLIs) to Graphical User Interfaces (GUIs) revolutionized personal computing by making it more accessible, lowering the learning curve for users, and making computer systems more straightforward to use. Initially, users relied on CLIs like MS-DOS, which required precise text commands, which required users to not only learn a lot but also have access to equipment that was often expensive and limited to universities or large businesses (Shustek). In the 1960s, visionaries like Douglas Engelbart and Alan Kay laid the groundwork for GUI, conceptualizing visual interfaces and developing technologies like the mouse and the Smalltalk programming language (Sirk). 
 
 In 1973, Xerox PARC's development of the Xerox Alto introduced the first GUI-based personal computer featuring windows, icons, and a mouse. However, Xerox failed to commercialize the Alto, missing a massive market opportunity. Apple capitalized on GUI technology with the 1984 release of the Macintosh, making GUI accessible to consumers (Personal Computer). Microsoft followed with Windows, launching its GUI in 1985, eventually leading to widespread adoption with Windows 3.0. The legal battle between Apple and Microsoft in 1988 further cemented GUI's dominance. While GUI remains integral to modern computing, emerging technologies like Natural User Interfaces (NUIs) and spatial interfaces may shape the future of human-computer interaction.
 
-Examine Current State:
+## Examine Current State:
 
 Modern Command Line Interface (CLI) tools and frameworks have evolved significantly in recent years, especially with the rise of cloud computing and microservices (The Evolution of Command Line Interface). The power and flexibility offered by tools such as PowerShell and Zsh have become critical in managing complex IT environments and development workflows. These tools have integrated advanced features like command completion, history, and scripting support, enabling developers to work more efficiently across different systems and environments (The Contentstack Team, n.d.).
 
@@ -40,21 +40,22 @@ CLIs have become indispensable when it comes to cloud computing and microservice
 Additionally, CLIs are widely used for container orchestration and deployment in the microservices landscape. Tools like Docker CLI and Kubernetes CLI (kubectl) empower developers to build, manage, and deploy containerized applications at scale. Docker's CLI simplifies the process of building and running containers, while Kubernetes' kubectl interacts with Kubernetes clusters, helping developers manage applications across distributed environments. Overall, modern CLI tools have adapted to the complex demands of today's IT and cloud ecosystems, offering powerful features for managing local systems and large-scale cloud infrastructures​ (Command Line Interface Guidelines).
 
 
-References
-ASR 33 Teletype. University of York, www.cs.york.ac.uk/50-years/exhibition/asr-33-teletype/#:~:text=The%20Model%2033%20was%20one,minicomputer%20operating%20systems%2C%20including%20UNIX. Accessed 27 Sept. 2024.
+## References
 
-The Evolution of Command Line Interface (CLI): A Historical Insight. The Contentstack Team, 14 Aug. 2024, www.contentstack.com/blog/tech-talk/the-evolution-of-command-line-interface-cli-a-historical-insight. Accessed 27 Sept. 2024.
+- [ASR 33 Teletype. University of York](https://www.cs.york.ac.uk/50-years/exhibition/asr-33-teletype/#:~:text=The%20Model%2033%20was%20one,minicomputer%20operating%20systems%2C%20including%20UNIX). Accessed 27 Sept. 2024.
 
-The Invention of Unix. Bell Labs, 8 Jan. 2019, www.bell-labs.com/institute/blog/invention-unix/#gref. Accessed 27 Sept. 2024.
+- [The Evolution of Command Line Interface (CLI): A Historical Insight. The Contentstack Team, 14 Aug. 2024](https://www.contentstack.com/blog/tech-talk/the-evolution-of-command-line-interface-cli-a-historical-insight). Accessed 27 Sept. 2024.
 
-MS-DOS. Computer Hope, www.computerhope.com/jargon/m/msdos.htm. Accessed 27 Sept. 2024.
+- [The Invention of Unix. Bell Labs, 8 Jan. 2019](https://www.bell-labs.com/institute/blog/invention-unix/#gref). Accessed 27 Sept. 2024.
 
-Prasad, Aanand, et al. "Command Line Interface Guidelines." CLIG.dev, www.clig.dev/#:~:text=A%20lot%20has%20changed%20about,%2Dlike%20multi%2Dtool%20commands. Accessed 27 Sept. 2024.
+- [MS-DOS. Computer Hope](https://www.computerhope.com/jargon/m/msdos.htm). Accessed 27 Sept. 2024.
 
-Rouse, Margaret. "Control Program for Microcomputers." Techopedia, 23 Dec. 2016, www.techopedia.com/definition/3343/control-program-for-microcomputers-cpm. Accessed 27 Sept. 2024.
+- [Prasad, Aanand, et al. "Command Line Interface Guidelines." CLIG.dev](https://www.clig.dev/#:~:text=A%20lot%20has%20changed%20about,%2Dlike%20multi%2Dtool%20commands). Accessed 27 Sept. 2024.
 
-Shustek, Leonard J. "Microsoft MS-DOS Early Source Code." Computer History Museum, 25 Mar. 2014, computerhistory.org/blog/microsoft-ms-dos-early-source-code/?key=microsoft-ms-dos-early-source-code. Accessed 27 Sept. 2024.
+- [Rouse, Margaret. "Control Program for Microcomputers." Techopedia, 23 Dec. 2016](https://www.techopedia.com/definition/3343/control-program-for-microcomputers-cpm). Accessed 27 Sept. 2024.
 
-Sirk, Christopher. "Xerox PARC and the Origins of GUI." CRM.org, 23 Jan. 2024, www.crm.org/articles/xerox-parc-and-the-origins-of-gui. Accessed 27 Sept. 2024.
+- [Shustek, Leonard J. "Microsoft MS-DOS Early Source Code." Computer History Museum, 25 Mar. 2014](https://computerhistory.org/blog/microsoft-ms-dos-early-source-code/?key=microsoft-ms-dos-early-source-code). Accessed 27 Sept. 2024.
 
-Personal Computer. Encyclopaedia Britannica, www.britannica.com/technology/personal-computer. Accessed 27 Sept. 2024.
+- [Sirk, Christopher. "Xerox PARC and the Origins of GUI." CRM.org, 23 Jan. 2024](https://www.crm.org/articles/xerox-parc-and-the-origins-of-gui). Accessed 27 Sept. 2024.
+
+- [Personal Computer. Encyclopaedia Britannica](https://www.britannica.com/technology/personal-computer). Accessed 27 Sept. 2024.
