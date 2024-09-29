@@ -1,17 +1,17 @@
-## TICKET # 3 List the advantages of using CLI over GUI - In Work
+# TICKET # 3 List the advantages of using CLI over GUI - In Work
 
-# 1.1
+## 1.1
 One of the main performance benefits of Command Line Interfaces (CLIs) is speed. CLIs allow users to perform tasks faster than graphical user interfaces (GUIs) because they allow users to interact directly with the computer's operating system by typing text-based commands into the terminal. Graphical User Interfaces require users to go through a multitude of steps in order to perform simple tasks like installing a program. CLIs allow you to enter a simple text command to install the same program. Similarly, they enable end users to navigate directories and list files, making it easy to output the results to a text file for future reference or processing (GeeksforGeeks, 2024).
 
-# 1.2
+## 1.2
 Another benefit of CLIs is that they use less resources, such as memory and power, compared to GUIs. This is because they can interact directly with the computer system and do not have to load graphics and complicated processes to execute the desired function the end-user is requesting. This can be especially useful when working with limited servers or accessing remote machines and resources. For example, instead of using parallels to launch a VM desktop, you could utilize an SSH to save resources on your local machine or server (GeeksforGeeks, 2024).  
 
-# 1.3
+## 1.3
 Scripting is arguably the greatest tool that CLIs offer users. Through shell scripting CLIs allow users to automate tasks at a rate faster than any gui. A shell script is a list of commands the user can write once and can employ whenever they need to in the future (Coursera, 2023). For instance, if you need to back up your files every day, you can write a script to do that automatically, saving you from having to do it manually each time . This kind of automation can make managing your system much more accessible, especially as you learn more about how the CLI works. In short, CLIs are fast, efficient, and powerful tools for performing tasks, using fewer resources, and automating repetitive jobs, making them a great option to explore as you begin your journey into computer systems (Coursera, 2023).
 
-# 2.1 (Rough Draft - Rework and Prove)
+## 2.1 (Rough Draft - Rework and Prove)
 By allowing users to interact directly with the operating system, CLIs allow users to bypass loading the visual components and processes that can be extremely resource-heavy that graphical user interfaces need to operate. Furthermore, since CLIs enable users to enter more specific commands in the shell via scripting and recall those same commands at will to perform complex and repetitive tasks whenever they require, they are more capable than GUIs when it comes to performing tasks such as renaming large files, tracking locations in real-time, and transferring large files (my brain - find ref.)
 CLI excels in remote access, enabling system management without a graphical interface, which is crucial for headless servers. It’s also highly customizable, letting users create tailored workflows through aliases and environment variables. Many advanced system features and diagnostics are accessible only via CLI, making it essential for troubleshooting and fine-tuning.
 
-# 2.2 (Rough Draft - Rework and Prove)
+## 2.2 (Rough Draft - Rework and Prove)
 One of CLI’s greatest strengths is batch processing, allowing efficient handling of large datasets or multiple files at once. Complex tasks can be streamlined using pipelines and simple commands, making CLI more versatile than GUIs for advanced users. Its ability to automate, customize, and manage both simple and complex operations makes it indispensable for developers and system administrators.
