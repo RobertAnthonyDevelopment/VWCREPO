@@ -12,6 +12,6 @@ because it has been proven to work for everyday and advanced tasks. So, the scop
 membership includes super users, programmers, and every other tech field that uses a computer. 
 Why? Because it is efficient, robust, and resilient.
 
-## Reference
+### Reference
 [Collection One - Vets Who Code Web Curriculum](https://github.com/Vets-Who-Code/web-curriculum/blob/master/collection-one/collection-one.md)
 
