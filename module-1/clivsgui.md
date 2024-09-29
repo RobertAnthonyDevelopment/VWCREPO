@@ -1,4 +1,4 @@
-## Command Line Interface Vs. Graphical User Interface
+# Command Line Interface Vs. Graphical User Interface
 
 The Command Line Interface is a text-based input system. The Graphical user interface is not text-based only. 
 They allow users to interact with an actual application, with button areas for text and often very clear directions. 
