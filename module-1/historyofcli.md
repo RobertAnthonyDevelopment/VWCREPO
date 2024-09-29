@@ -1,4 +1,4 @@
-#Ticket # 2 Research the History of the Command Line Interface (CLI)
+# Ticket # 2 Research the History of the Command Line Interface (CLI)
 
 ## Trace Back to the Initial Concept of the CLI: Identify the First Systems that Used Command-Line Interfaces:
 
