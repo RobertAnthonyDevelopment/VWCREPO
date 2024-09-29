@@ -15,3 +15,9 @@ CLI excels in remote access, enabling system management without a graphical inte
 
 ## 2.2 (Rough Draft - Rework and Prove)
 One of CLI’s greatest strengths is batch processing, allowing efficient handling of large datasets or multiple files at once. Complex tasks can be streamlined using pipelines and simple commands, making CLI more versatile than GUIs for advanced users. Its ability to automate, customize, and manage both simple and complex operations makes it indispensable for developers and system administrators.
+
+## 3.0
+3.0 Granular Control 
+https://www.ninjaone.com/it-hub/it-service-management/what-is-a-command-line-interface-cli/
+### Control Reference
+CLI offers granular control over the system, allowing users to execute specific and advanced tasks that may not be possible with a GUI.
