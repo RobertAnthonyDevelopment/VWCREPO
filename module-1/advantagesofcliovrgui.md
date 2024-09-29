@@ -1,4 +1,4 @@
-# TICKET # 3 List the advantages of using CLI over GUI - In Work
+# Ticket # 3: List the advantages of using CLI over GUI - In Work
 
 ## 1.1
 One of the main performance benefits of Command Line Interfaces (CLIs) is speed. CLIs allow users to perform tasks faster than graphical user interfaces (GUIs) because they allow users to interact directly with the computer's operating system by typing text-based commands into the terminal. Graphical User Interfaces require users to go through a multitude of steps in order to perform simple tasks like installing a program. CLIs allow you to enter a simple text command to install the same program. Similarly, they enable end users to navigate directories and list files, making it easy to output the results to a text file for future reference or processing (GeeksforGeeks, 2024).
