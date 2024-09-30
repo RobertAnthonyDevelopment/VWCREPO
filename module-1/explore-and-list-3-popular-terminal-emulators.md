@@ -18,12 +18,12 @@ The ZOC terminal emulator is software used primarily by system admins and manage
 The ZOC emulator is a Secure Shell (SSH) client that excels at providing secure connections to remote computers. "SSH (Secure Shell or Secure Socket Shell) is a network protocol that gives users—particularly systems administrators—a secure way to access a computer over an unsecured network" (Gillis et al., 2024). ZOC is highly customizable, allowing users to modify critical settings, set up custom buttons, and automate actions based on specific triggers. Its robust security features, including industrial-strength encryption, make it ideal for managing sensitive data across networks. Overall, ZOC’s versatility, automation capabilities, and robust security features make it a reliable choice for professionals connecting to various systems and automating complex tasks (Emtec, 2024).
 
 ### References 
-- Cobb, Michael, et al. "What Is SSH (Secure Shell) and How Does It Work?" *TechTarget*, edited by Alexander S. Gillis and Peter Loshin, July 2024. [TechTarget](https://www.techtarget.com/searchsecurity/definition/Secure-Shell).
+Cobb, Michael, et al. "What Is SSH (Secure Shell) and How Does It Work?" *TechTarget*, edited by Alexander S. Gillis and Peter Loshin, July 2024. [TechTarget](https://www.techtarget.com/searchsecurity/definition/Secure-Shell).
 
-- "Hyper." *Hyper*. [Hyper](https://hyper.is/).
+"Hyper." *Hyper*. [Hyper](https://hyper.is/).
 
-- "iTerm2." *iTerm2*. [iTerm2](https://iterm2.com/features.html).
+"iTerm2." *iTerm2*. [iTerm2](https://iterm2.com/features.html).
 
-- Rouse, Margaret. "Terminal Emulator." *Techopedia*, 4 Nov. 2014. [Techopedia](https://www.techopedia.com/definition/22526/terminal-emulator).
+Rouse, Margaret. "Terminal Emulator." *Techopedia*, 4 Nov. 2014. [Techopedia](https://www.techopedia.com/definition/22526/terminal-emulator).
 
-- "ZOC." *Emtec Software*. [Emtec](https://www.emtec.com/zoc/index.html).
+"ZOC." *Emtec Software*. [Emtec](https://www.emtec.com/zoc/index.html).
