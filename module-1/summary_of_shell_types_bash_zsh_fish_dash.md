@@ -1,4 +1,4 @@
-# Write a Summary on Different Shell Types (Bash, Zsh, Fish, Dash)(In Work)
+# Write a Summary on Different Shell Types (Bash, Zsh, Fish, Dash)
 ## Introduction
 Bash, Zsh, Fish, and Dash are four prominent shell environments, each offering unique features tailored to the various needs of its users. Choosing the right shell depends on the specific tasks or user preferences, as each has its strengths in terms of functionality, performance, and user experience. The following passages will explore each shell's core functionalities, unique features, advantages, and use cases, providing insight into their roles in the software development ecosystem.
 ## Bash
