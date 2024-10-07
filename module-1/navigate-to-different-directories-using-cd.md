@@ -188,6 +188,7 @@ Type: “clear” Press the “Enter” key
 ![Image of Twenty Six](module-1-images/navigate-to-different-directories-using-cd-images/Twenty%20Six.png)
 
 This will be the result:
+
 ![Image of Twenty Seven](module-1-images/navigate-to-different-directories-using-cd-images/Twenty%20Seven.png)
 
 Use the “pwd” (print working directory) command to confirm your current location:
