@@ -290,6 +290,10 @@ In conclusion, mastering the cd command is essential for effective navigation in
 
 ### References 
 [Changing to another directory - cd command](https://www.ibm.com/docs/en/aix/7.1?topic=directories-changing-another-directory-cd-command)
+
 [Directories](https://www.ibm.com/docs/en/aix/7.1?topic=systems-directories)
+
 [Displaying contents of a directory - ls command](https://www.ibm.com/docs/en/aix/7.1?topic=directories-displaying-contents-directory-ls-command)
+
 [How To Use 'CD' 'Change Directory'](https://www.linode.com/docs/guides/how-to-use-cd/)
+
