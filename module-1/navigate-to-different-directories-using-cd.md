@@ -1,4 +1,4 @@
-# Navigate to different directories using cd
+# Ticket #7 Navigate to different directories using cd
 
 ## Introduction
 Basic directory navigation is an essential skill when working in the terminal. The “cd” command which stands for "change directory" allows you to move between directories and access files or programs in different locations on your system. This section covers the simplest forms of the cd command, explaining how to navigate directly to specific directories.
