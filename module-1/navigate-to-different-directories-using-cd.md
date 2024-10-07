@@ -136,3 +136,5 @@ cd cdnavpractice/cdnavpracticesub
 
 ![Image of Twenty Three](module-1-images/navigate-to-different-directories-using-cd-images/Twenty%20Three.png)
 
+
+
