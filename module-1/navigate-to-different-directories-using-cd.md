@@ -75,7 +75,7 @@ rm /Users/robertclemons/Desktop/cdnavpractice/cdnavpracticesub/ExampleLink
 
 ![Image of Fifteen](module-1-images/navigate-to-different-directories-using-cd-images/Fifteen.png)
 
-![Image of Sixteen](module-1-images/navigate-to-different-directories-using-cd-images/Sixteen.png)
+![Image of Sixteen](module-1-images/navigate-to-different-directories-using-cd-images/sixteen.png)
 
 ## Common Scenarios:
 This command is useful when you need to backtrack to a higher-level directory in your file structure.
