@@ -136,5 +136,66 @@ cd cdnavpractice/cdnavpracticesub
 
 ![Image of Twenty Three](module-1-images/navigate-to-different-directories-using-cd-images/Twenty%20Three.png)
 
+## TASK4
+### "No such file or directory" Error
+### Issue:
+This error occurs when you try to navigate to a directory that doesn't exist or you’ve made a typo in the directory name.
 
+### Example of Bad Command:
+(base) robertclemons@Ricky-Spanish ~ % cd /Users/robertclemons/Desktop/ nonexistentfolder
 
+### This will result in:
+cd: no such file or directory: /Users/robertclemons/Desktop/nonexistentfolder (base) robertclemons@Ricky-Spanish ~ %
+
+### Solution:
+Double-check the spelling and ensure that the directory actually exists by listing the contents of the parent directory.
+Run “ls /Users/robertclemons/Desktop” to list the contents and confirm the directory exists. If it doesn't, double-check the spelling or navigate to a different location.
+
+![Image of Twenty Four](module-1-images/navigate-to-different-directories-using-cd-images/Twenty%20Four.png)
+
+### Navigating Directories with Spaces
+
+When directory names contain spaces, you need to take special care, as spaces can cause issues in the command line.
+
+### Issue:
+cd /Users/robertclemons/Desktop/My Folder
+
+### Example of Bad Command:
+(base) robertclemons@Ricky-Spanish ~ % cd /Users/robertclemons/Desktop/nonexistentfolder
+
+### This will result in:
+cd: string not in pwd: /Users/robertclemons/Desktop/My
+
+### Solution:
+There are two ways to handle directories with spaces:
+
+- Use quotation marks around the path:
+  cd "/Users/robertclemons/Desktop/My Folder"
+
+- Escape the spaces with a backslash (\):
+  cd /Users/robertclemons/Desktop/My\ Folder
+
+![Image of Twenty Five](module-1-images/navigate-to-different-directories-using-cd-images/Twenty%20Five.png)
+
+### Clearing Terminal and Checking Your Current Location
+If you’ve run several commands and the terminal is cluttered, you can clear the screen to start fresh. This doesn't affect your location, but you can use pwd afterward to confirm where you are.
+### Issue:
+Sometimes, you may not know where you are in the file system, which can make it difficult to understand why cdcommands aren’t working as expected.
+### Solution:
+Use the pwd (print working directory) command to confirm your current location:
+Type: “clear” Press the “Enter” key
+
+![Image of Twenty Six](module-1-images/navigate-to-different-directories-using-cd-images/Twenty%20Six.png)
+
+This will be the result:
+![Image of Twenty Seven](module-1-images/navigate-to-different-directories-using-cd-images/Twenty%20Seven.png)
+
+Use the “pwd” (print working directory) command to confirm your current location:
+
+![Image of Twenty Eight](module-1-images/navigate-to-different-directories-using-cd-images/Twenty%20Eight.png)
+
+### CONCLUSION
+In conclusion, mastering the cd command is essential for effective navigation in Unix-like operating systems. From basic usage to more advanced techniques like switching between directories, using symbolic links, and troubleshooting common issues, understanding how to work with directories is a critical skill for anyone working in the terminal. With these tools, you will be able to navigate the file system efficiently, troubleshoot errors, and streamline your workflow.
+
+### References 
+https://www.linode.com/docs/guides/how-to-use-cd/
