@@ -24,62 +24,61 @@ and confirm you are in the right place.
 
 ## Advanced Options:
 
-# Demonstrating the `ls` Command with Absolute Path
+### Demonstrating the `ls` Command with Absolute Path
 
-## Navigate to the Directory:
-cd /Users/robertclemons/Desktop/cdnavpractice/cdnavpracticesub
+### Navigate to the Directory:
+- cd /Users/robertclemons/Desktop/cdnavpractice/cdnavpracticesub
 
-![Image Placeholder](Twenty Nine.png)
+![Image of Twenty Nine](module-1-images/navigate-to-different-directories-using-cd-images/Twenty Nine.png)
 
-## Basic ls Command:
-ls
-This will display all the non-hidden files and directories located within cdnavpracticesub.
+### Basic ls Command:
+- ls This will display all the non-hidden files and directories located within cdnavpracticesub.
 
 ![Image Placeholder](Thirty.png)
 
-## List All Files (Including Hidden Files):
+### List All Files (Including Hidden Files):
 ls -a /Users/robertclemons/Desktop/cdnavpractice/cdnavpracticesub
 This command will list all files, including hidden ones, within the cdnavpracticesub directory.
 
 ![Image Placeholder](Thirty One.png)
 
-## Long Listing Format (-l flag):
+### Long Listing Format (-l flag):
 ls -l /Users/robertclemons/Desktop/cdnavpractice/cdnavpracticesub
 The output will display file types, permissions, number of links, owner, group, file size, and the last modified time.
 
 ![Image Placeholder](Thirty Two.png)
 
-## Long Listing with Hidden Files:
+### Long Listing with Hidden Files:
 ls -la /Users/robertclemons/Desktop/cdnavpractice/cdnavpracticesub
 This is useful when you want detailed information on all files, including hidden ones.
 
 ![Image Placeholder](Thirty Three.png)
 
-## Listing Only Directories:
+### Listing Only Directories:
 ls -d /Users/robertclemons/Desktop/cdnavpractice/cdnavpracticesub
 This will output the directory name without listing the files inside it.
 
 ![Image Placeholder](Thirty Four.png)
 
-## Multiple Directory Listing:
+### Multiple Directory Listing:
 ls -d -l /Users/robertclemons/Desktop/cdnavpractice /Users/robertclemons/Desktop/cdnavpractice/cdnavpracticesub
 This will list details of the cdnavpractice and cdnavpracticesub directories.
 
 ![Image Placeholder](Thirty Five.png)
 
-## Displaying Entries in Multiple Columns:
+### Displaying Entries in Multiple Columns:
 ls -C /Users/robertclemons/Desktop/cdnavpractice/cdnavpracticesub
 This shows the contents of the directory in multiple columns.
 
 ![Image Placeholder](Thirty Six.png)
 
-## Displaying Comma-Separated Output:
+### Displaying Comma-Separated Output:
 ls -m /Users/robertclemons/Desktop/cdnavpractice/cdnavpracticesub
 This will output the contents of the directory in a single line, separated by commas.
 
 ![Image Placeholder](Thirty Seven.png)
 
-## Checking File Types and Permissions:
+### Checking File Types and Permissions:
 ls -l /Users/robertclemons/Desktop/cdnavpractice/cdnavpracticesub
 This will show:
 - d: Directory
@@ -88,26 +87,26 @@ This will show:
 
 ![Image Placeholder](Thirty Eight.png)
 
-## Listing Files with Extended Security Information:
+### Listing Files with Extended Security Information:
 ls -e /Users/robertclemons/Desktop/cdnavpractice/cdnavpracticesub
 This provides an additional 11th character in the output to indicate if extended security information is present.
 
 ![Image Placeholder](Thirty Nine.png)
 
-## Listing Block Size:
+### Listing Block Size:
 ls -s /Users/robertclemons/Desktop/cdnavpractice/cdnavpracticesub
 This will show the total size of blocks for files in the directory.
 
 ![Image Placeholder](Forty.png)
 
-## Practical Examples:
+### Practical Examples:
 ls -a /Users/robertclemons/Desktop/cdnavpractice/cdnavpracticesub
 
 ls -d -l /Users/robertclemons/Desktop/cdnavpractice /Users/robertclemons/Desktop/cdnavpractice/cdnavpracticesub
 
 ![Image Placeholder](Forty One.png)
 
-## More Resources:
+### More Resources:
 To learn more about the ls command and its options, use the manual:
 man ls
 
