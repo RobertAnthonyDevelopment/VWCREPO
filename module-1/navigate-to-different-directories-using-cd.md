@@ -199,4 +199,4 @@ Use the “pwd” (print working directory) command to confirm your current loca
 In conclusion, mastering the cd command is essential for effective navigation in Unix-like operating systems. From basic usage to more advanced techniques like switching between directories, using symbolic links, and troubleshooting common issues, understanding how to work with directories is a critical skill for anyone working in the terminal. With these tools, you will be able to navigate the file system efficiently, troubleshoot errors, and streamline your workflow.
 
 ### References 
-https://www.linode.com/docs/guides/how-to-use-cd/
+[How To Use 'CD' 'Change Directory'](https://www.linode.com/docs/guides/how-to-use-cd/)
