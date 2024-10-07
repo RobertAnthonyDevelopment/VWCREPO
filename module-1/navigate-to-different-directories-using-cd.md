@@ -136,7 +136,7 @@ cd cdnavpractice/cdnavpracticesub
 
 ![Image of Twenty Three](module-1-images/navigate-to-different-directories-using-cd-images/Twenty%20Three.png)
 
-## TASK4
+## Troubleshooting:
 ### "No such file or directory" Error
 ### Issue:
 This error occurs when you try to navigate to a directory that doesn't exist or you’ve made a typo in the directory name.
