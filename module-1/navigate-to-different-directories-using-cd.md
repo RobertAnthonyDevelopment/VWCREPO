@@ -83,3 +83,56 @@ This command is useful when you need to backtrack to a higher-level directory in
 ### Move to the Parent Directory (cd ..)
 You can move up one level in the directory structure using the .. symbol.
 
+![Image of Seventeen](module-1-images/navigate-to-different-directories-using-cd-images/Seventeen.png)
+
+### Return to the Home Directory (cd ~):
+Using ~ (tilde) is a shortcut to go back to your home directory, regardless of your current location.
+
+![Image of Eighteen](module-1-images/navigate-to-different-directories-using-cd-images/Eighteen.png)
+
+### Navigating Multiple Levels Up (cd ../../)
+You can combine multiple .. to move up several directory levels in one go.
+
+![Image of Nineteen](module-1-images/navigate-to-different-directories-using-cd-images/Nineteen.png)
+
+## TASK 3 Continued: Absolute vs. Relative Path
+
+An absolute path starts from the root of the file system and is always the same, while a relative path is based on your current location in the file system. Here’s how you would use each. Absolute paths are useful when you need to navigate to a specific directory from anywhere in the file system. They start from the root (/) and provide the full location of the directory. Relative paths, on the other hand, depend on your current location in the system. They are shorter and more convenient when you're already near your destination directory, as they save you from typing the full path.
+
+### Scenario 1: You Are in /Users/robertclemons
+
+### Absolute Path Example:
+
+Let’s say you want to go to the cdnavpracticesub directory located at /Users/ robertclemons/Desktop/cdnavpractice/cdnavpracticesub. You would use the absolute path to get there, regardless of where you are in the filesystem.
+
+- cd /Users/robertclemons/Desktop/cdnavpractice/cdnavpracticesub
+
+![Image of Twenty](module-1-images/navigate-to-different-directories-using-cd-images/Twenty.png)
+
+### Relative Path Example:
+Now, if you're already in /Users/robertclemons, and you want to go to
+cdnavpracticesub, you can use a relative path. 
+
+- cd Desktop/cdnavpractice/cdnavpracticesub
+
+![Image of Twenty One](module-1-images/navigate-to-different-directories-using-cd-images/Twenty%20One.png)
+
+### Scenario 2: You Are in /Users/robertclemons/Desktop
+
+### Absolute Path Example:
+- First, the user uses an absolute path to go to the Desktop folder by typing: cd /Users/robertclemons/Desktop
+
+- Then: Even though you’re already in the Desktop folder, you can still use an absolute path to get to cdnavpracticesub.
+
+- cd /Users/robertclemons/Desktop/cdnavpractice/cdnavpracticesub
+
+![Image of Twenty Two](module-1-images/navigate-to-different-directories-using-cd-images/Twenty%20Two.png)
+
+### Relative Path Example:
+- First, the user uses an absolute path to go to the Desktop folder by typing:
+cd /Users/robertclemons/Desktop
+- Then, instead of typing the full absolute path again, the user uses a relative path to navigate to cdnavpracticesub:
+cd cdnavpractice/cdnavpracticesub
+
+![Image of Twenty Three](module-1-images/navigate-to-different-directories-using-cd-images/Twenty%20Three.png)
+
