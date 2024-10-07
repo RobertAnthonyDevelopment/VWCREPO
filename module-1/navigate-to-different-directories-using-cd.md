@@ -289,4 +289,7 @@ Use the “pwd” (print working directory) command to confirm your current loca
 In conclusion, mastering the cd command is essential for effective navigation in Unix-like operating systems. From basic usage to more advanced techniques like switching between directories, using symbolic links, and troubleshooting common issues, understanding how to work with directories is a critical skill for anyone working in the terminal. With these tools, you will be able to navigate the file system efficiently, troubleshoot errors, and streamline your workflow.
 
 ### References 
+[Changing to another directory - cd command](https://www.ibm.com/docs/en/aix/7.1?topic=directories-changing-another-directory-cd-command)
+[Directories](https://www.ibm.com/docs/en/aix/7.1?topic=systems-directories)
+[Displaying contents of a directory - ls command](https://www.ibm.com/docs/en/aix/7.1?topic=directories-displaying-contents-directory-ls-command)
 [How To Use 'CD' 'Change Directory'](https://www.linode.com/docs/guides/how-to-use-cd/)
