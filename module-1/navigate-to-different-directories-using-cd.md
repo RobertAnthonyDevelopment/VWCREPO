@@ -3,7 +3,7 @@
 ## Introduction
 Basic directory navigation is an essential skill when working in the terminal. The “cd” command which stands for "change directory" allows you to move between directories and access files or programs in different locations on your system. This section covers the simplest forms of the cd command, explaining how to navigate directly to specific directories.
 
-## Basic Usage:
+## Task 1 Basic Usage:
 
 ### Find Specific Directory:
 This command demonstrates how to navigate to a specific directory using the full (absolute) path, which is necessary when you're not sure where you are in the file system.
@@ -22,7 +22,7 @@ and confirm you are in the right place.
 
 ![Image of Four](module-1-images/navigate-to-different-directories-using-cd-images/Four.png)
 
-## Advanced Options:
+## Task 2 Advanced Options:
 
 ### Demonstrating the `ls` Command with Absolute Path
 
@@ -167,7 +167,7 @@ rm /Users/robertclemons/Desktop/cdnavpractice/cdnavpracticesub/ExampleLink
 
 ![Image of Sixteen](module-1-images/navigate-to-different-directories-using-cd-images/sixteen.png)
 
-## Common Scenarios:
+## Task 3 Common Scenarios:
 This command is useful when you need to backtrack to a higher-level directory in your file structure.
 
 ### Move to the Parent Directory (cd ..)
@@ -226,7 +226,7 @@ cd cdnavpractice/cdnavpracticesub
 
 ![Image of Twenty Three](module-1-images/navigate-to-different-directories-using-cd-images/Twenty%20Three.png)
 
-## Troubleshooting:
+## Task 4 Troubleshooting:
 ### "No such file or directory" Error
 ### Issue:
 This error occurs when you try to navigate to a directory that doesn't exist or you’ve made a typo in the directory name.
