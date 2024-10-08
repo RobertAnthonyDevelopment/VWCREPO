@@ -262,7 +262,7 @@ There are two ways to handle directories with spaces:
 - Use quotation marks around the path:
   cd "/Users/robertclemons/Desktop/My Folder"
 
-- Escape the spaces with a backslash (\):
+- Escape the spaces with a backslash:
   cd /Users/robertclemons/Desktop/My\ Folder
 
 ![Image of Twenty Five](module-1-images/navigate-to-different-directories-using-cd-images/Twenty%20Five.png)
